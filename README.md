@@ -94,12 +94,12 @@ The mobile app is designed to streamline the movie-going experience by allowing 
 ## Activity Diagrams
 
 #### User Story 1: 
-As a **customer**, I want **to pre-order snacks and drinks for in-seat delivery** so that **I can enjoy a seamless movie experience without leaving my seat.**
+As a customer**, I want to pre-order snacks and drinks for in-seat delivery so that I can enjoy a seamless movie experience without leaving my seat.
 #### Activity Diagram 1:
 ![Fail to load UML1](UML1.png)
 
 #### User Story 2:
-As a **frequent moviegoer**, I want **to earn rewards points for every ticket I buy** so that **I can redeem them for free tickets or snacks.** 
+As a frequent moviegoer, I want to earn rewards points for every ticket I buy so that I can redeem them for free tickets or snacks.
 #### Activity Diagram 2:
 ![Fail to load UML2](UML2.png)
 
