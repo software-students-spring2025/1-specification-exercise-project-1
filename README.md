@@ -28,7 +28,7 @@ The mobile app is designed to streamline the movie-going experience by allowing 
 
 ## User Requirements
 > As a **moviegoer**, I want **to browse the latest movie trends and showtimes** so that **I can stay updated and plan my visit to the theater.**
->> Estimation of effort: S
+>> Estimation of effort: S\n
 >> Acceptance criteria:
 >> 1. Trending movies are highlighted with posters and trailers.
 >> 2. Users can filter movies by genre, rating, or time.
