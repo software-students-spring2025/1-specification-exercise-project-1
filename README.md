@@ -33,32 +33,63 @@ The mobile app is designed to streamline the movie-going experience by allowing 
 > 1. Trending movies are highlighted with posters and trailers.
 > 2. Users can filter movies by genre, rating, or time.
 
-> As a **busy parent**, I want **to purchase tickets online** so that **I can avoid long queues and save time at the theater.**
->>
+> As a **busy parent**, I want **to purchase tickets online** so that **I can avoid long queues and save time at the theater.**  
+> Estimation of effort: M  
+> Acceptance criteria:
+> 1. Users can select seats from a theater layout.
+> 2. A digital ticket is generated for entry.
 
-> As a **frequent moviegoer**, I want **to earn rewards points for every ticket I buy** so that **I can redeem them for free tickets or snacks.**
->>
+> As a **frequent moviegoer**, I want **to earn rewards points for every ticket I buy** so that **I can redeem them for free tickets or snacks.**  
+> Estimation of effort: M  
+> Acceptance criteria:
+> 1. Points are automatically added to the user’s account after purchase.
+> 2. Users can view their points balance in the app.
+> 3. Points can be redeemed for rewards like free tickets or snacks.
 
-> As a **teenager**, I want **to see trailers and trending movie content on the app** so that **I can decide what to watch with my friends.**
->>
+> As a **teenager**, I want **to see trailers and trending movie content on the app** so that **I can decide what to watch with my friends.**  
+> Estimation of effort: S  
+> Acceptance criteria:
+> 1. Trailers are easily accessible and playable within the app.
+> 2. Trending content is updated regularly.
+> 3. Users can share trailers with friends via social media.
 
-> As a **customer**, I want **to pre-order snacks and drinks for in-seat delivery** so that **I can enjoy a seamless movie experience without leaving my seat.**
->>
+> As a **customer**, I want **to pre-order snacks and drinks for in-seat delivery** so that **I can enjoy a seamless movie experience without leaving my seat.**  
+> Estimation of effort: L  
+> Acceptance criteria:
+> 1. Users can browse a menu of available snacks and drinks.
+> 2. Orders are delivered to the correct seat number.
 
-> As a **user**, I want **to receive personalized movie recommendations based on my preferences** so that **I can discover new films I might enjoy.**
->>
+> As a **user**, I want **to receive personalized movie recommendations based on my preferences** so that **I can discover new films I might enjoy.**  
+> Estimation of effort: S  
+> Acceptance criteria:
+> 1. Recommendations are based on past viewing history and preferences.
+> 2. Users can rate movies to improve recommendations.
+> 3. Recommendations are displayed prominently on the home screen.
 
-> As a **movie enthusiast**, I want **to read reviews and ratings from other users** so that **I can make informed decisions about which movies to watch.**
->>
+> As a **movie enthusiast**, I want **to read reviews and ratings from other users** so that **I can make informed decisions about which movies to watch.**  
+> Estimation of effort: S  
+> Acceptance criteria:
+> 1. Reviews and ratings are displayed for each movie.
+> 2. Users can sort reviews by most recent or highest rating.
+> 3. Users can submit their own reviews after watching a movie.
 
-> As a **theater manager**, I want **to collect customer data like age and gender through the app** so that **I can tailor marketing campaigns and improve services.**
->>
+> As a **theater manager**, I want **to collect customer data like age and gender through the app** so that **I can tailor marketing campaigns and improve services.**  
+> Estimation of effort: M  
+> Acceptance criteria:
+> 1. Data is collected during registration or ticket purchase.
+> 2. Reports can be generated for marketing analysis.
 
-> As a **elder customer**, I want **a clear app layout with easy-to-read fonts** so that **I can quickly and easily purchase tickets without additional help.**
->>
+> As a **elder customer**, I want **a clear app layout with easy-to-read fonts** so that **I can quickly and easily purchase tickets without additional help.**  
+> Estimation of effort: S  
+> Acceptance criteria:
+> 1. Showtimes are displayed in a clear, easy-to-read format.
+> 2. User can manually change the font size or color theme.
 
-> As a **user**, I want **to receive notifications about exclusive promotions and discounts** so that **I can save money on tickets.**
->>
+> As a **user**, I want **to receive notifications about exclusive promotions and discounts** so that **I can save money on tickets.**  
+> Estimation of effort: S  
+> Acceptance criteria:
+> 1. Users can opt in or out of notifications.
+> 2. Notifications are timely and relevant to the user’s preferences.
 
 ## Activity Diagrams
 
