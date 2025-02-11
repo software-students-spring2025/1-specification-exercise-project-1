@@ -27,25 +27,25 @@ By addressing these challenges and aligning with stakeholder goals, the mobile a
 The mobile app is designed to streamline the movie-going experience by allowing users to discover the latest trends, book tickets, pre-order snacks, and access personalized offers while helping theaters improve customer engagement, operational efficiency, and revenue growth.
 
 ## User Requirements
-1. As a **moviegoer**, I want **to browse the latest movie trends and showtimes** so that **I can stay updated and plan my visit to the theater.**
+- As a **moviegoer**, I want **to browse the latest movie trends and showtimes** so that **I can stay updated and plan my visit to the theater.**
 
-2. As a **busy parent**, I want **to purchase tickets online** so that **I can avoid long queues and save time at the theater.**
+- As a **busy parent**, I want **to purchase tickets online** so that **I can avoid long queues and save time at the theater.**
 
-3. As a **frequent moviegoer**, I want **to earn rewards points for every ticket I buy** so that **I can redeem them for free tickets or snacks.**
+- As a **frequent moviegoer**, I want **to earn rewards points for every ticket I buy** so that **I can redeem them for free tickets or snacks.**
 
-4. As a **teenager**, I want **to see trailers and trending movie content on the app** so that **I can decide what to watch with my friends.**
+- As a **teenager**, I want **to see trailers and trending movie content on the app** so that **I can decide what to watch with my friends.**
 
-5. As a **customer**, I want **to pre-order snacks and drinks for in-seat delivery** so that **I can enjoy a seamless movie experience without leaving my seat.**
+- As a **customer**, I want **to pre-order snacks and drinks for in-seat delivery** so that **I can enjoy a seamless movie experience without leaving my seat.**
 
-6. As a **user**, I want **to receive personalized movie recommendations based on my preferences** so that **I can discover new films I might enjoy.**
+- As a **user**, I want **to receive personalized movie recommendations based on my preferences** so that **I can discover new films I might enjoy.**
 
-7. As a **movie enthusiast**, I want **to read reviews and ratings from other users** so that **I can make informed decisions about which movies to watch.**
+- As a **movie enthusiast**, I want **to read reviews and ratings from other users** so that **I can make informed decisions about which movies to watch.**
 
-8. As a **theater manager**, I want **to collect customer data through the app** so that **I can tailor marketing campaigns and improve services.**
+- As a **theater manager**, I want **to collect customer data through the app** so that **I can tailor marketing campaigns and improve services.**
 
-9. As a **elder customer**, I want **a clear app layout with easy-to-read fonts** so that **I can quickly and easily purchase tickets without additional help.**  
+- As a **elder customer**, I want **a clear app layout with easy-to-read fonts** so that **I can quickly and easily purchase tickets without additional help.**  
 
-10. As a **user**, I want **to receive notifications about exclusive promotions and discounts** so that **I can save money on tickets.**  
+- As a **user**, I want **to receive notifications about exclusive promotions and discounts** so that **I can save money on tickets.**  
 
 ## Activity Diagrams
 
