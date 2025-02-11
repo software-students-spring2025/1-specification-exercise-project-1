@@ -92,7 +92,9 @@ The mobile app is designed to streamline the movie-going experience by allowing 
 > 2. Notifications are timely and relevant to the user’s preferences.
 
 ## Activity Diagrams
-![Fail to load img](Wireframe.png)
+![Fail to load UML1](UML1.png)
+![Fail to load UML2](UML2.jpg)
+![Fail to load Wireframe](Wireframe.png)
 
 ## Clickable Prototype
 https://www.figma.com/proto/Q5FBLWclInzfxCTdUdQC4W/MovieTicketBookingApp?node-id=4-5&t=oAlDaM3QQUm9CZ9b-1&starting-point-node-id=4%3A5
