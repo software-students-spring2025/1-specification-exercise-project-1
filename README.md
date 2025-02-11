@@ -27,8 +27,8 @@ By addressing these challenges and aligning with stakeholder goals, the mobile a
 The mobile app is designed to streamline the movie-going experience by allowing users to discover the latest trends, book tickets, pre-order snacks, and access personalized offers while helping theaters improve customer engagement, operational efficiency, and revenue growth.
 
 ## User Requirements
-> As a **moviegoer**, I want **to browse the latest movie trends and showtimes** so that **I can stay updated and plan my visit to the theater.**
-> Estimation of effort: S
+> As a **moviegoer**, I want **to browse the latest movie trends and showtimes** so that **I can stay updated and plan my visit to the theater.**  
+> Estimation of effort: S  
 > Acceptance criteria:
 > 1. Trending movies are highlighted with posters and trailers.
 > 2. Users can filter movies by genre, rating, or time.
