@@ -97,4 +97,4 @@ The mobile app is designed to streamline the movie-going experience by allowing 
 ![Fail to load Wireframe](Wireframe.png)
 
 ## Clickable Prototype
-https://www.figma.com/proto/Q5FBLWclInzfxCTdUdQC4W/MovieTicketBookingApp?node-id=4-5&t=oAlDaM3QQUm9CZ9b-1&starting-point-node-id=4%3A5
+https://www.figma.com/proto/Q5FBLWclInzfxCTdUdQC4W/MovieTicketBookingApp?node-id=44-527&t=mYHj4aEUzWRbWioX-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=44%3A527
