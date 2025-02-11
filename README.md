@@ -92,9 +92,19 @@ The mobile app is designed to streamline the movie-going experience by allowing 
 > 2. Notifications are timely and relevant to the user’s preferences.
 
 ## Activity Diagrams
+
+#### User Story 1: 
+As a **customer**, I want **to pre-order snacks and drinks for in-seat delivery** so that **I can enjoy a seamless movie experience without leaving my seat.**
+#### Activity Diagram 1:
 ![Fail to load UML1](UML1.png)
-![Fail to load UML2](UML2.jpg)
+
+#### User Story 2:
+As a **frequent moviegoer**, I want **to earn rewards points for every ticket I buy** so that **I can redeem them for free tickets or snacks.** 
+#### Activity Diagram 2:
+![Fail to load UML2](UML2.png)
+
+#### Wireframe Diagram:
 ![Fail to load Wireframe](Wireframe.png)
 
 ## Clickable Prototype
-https://www.figma.com/proto/Q5FBLWclInzfxCTdUdQC4W/MovieTicketBookingApp?node-id=44-527&t=mYHj4aEUzWRbWioX-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=44%3A527
+[Link to prototype](https://www.figma.com/proto/Q5FBLWclInzfxCTdUdQC4W/MovieTicketBookingApp?node-id=4-8&p=f&t=PWTH6TBslF60YlNj-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=44%3A527)
